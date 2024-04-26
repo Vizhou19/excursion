@@ -11,6 +11,22 @@ body {
     font-size: 50px;
 }
 
+/* Links */
+
 .link--cta {
     color: aquamarine;
+}
+
+/* HEADINGS */
+
+.header--sec {
+    color: white;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.header--sub {
+    color: gray;
+    font-size: 21px;
+    
 }
