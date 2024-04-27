@@ -28,5 +28,12 @@ body {
 .header--sub {
     color: gray;
     font-size: 21px;
-    
+}
+
+/* Footer */
+
+.footer {
+    font-size: 16px;
+    color: gray;
+    text-align: end;
 }
